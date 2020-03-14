@@ -1,0 +1,202 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin: 0; padding: 0;font-family: 'gentium-book-basic'; background-color:white;background:  rgba(33,17,43,1.00);}
+section{ height: 100%;width: 100%;
+	padding-top: 180px;
+	float:left;}
+article{position:static;height:fit-content;padding-top: 140px;}
+#about{background-color:#020202;text-decoration-color: yellow;margin-top:600px;}
+#portfolio{background-color:#616161 text-decoration-color:yellow;}
+#currentprojects{background-color:#020202;text-decoration-color: yellow;}
+#tallerdefilosofiaexpandida{background-color:#616161-decoration-color: yellow;}
+#contact{background-color: #020202; text-decoration-color: yellow;}
+#primero
+{width:100%;position: fixed;z-index:1;top: 80px;}
+#texts {background-color:#616161text-decoration-color:yellow;}
+#audiovisual {background-color:#616161 text-decoration-color:yellow;}
+#performance {background-color:#616161 text-decoration-color:yellow;}
+#newmedia {background-color:#616161 text-decoration-color:yellow;}
+#license {
+    position: static;
+    margin-top: 65px;
+}
+ul{
+    width: fit-content;
+}
+ul li {float:left; margin-right: 30px;}
+	.presentation {
+    font-size: 20px;
+    text-shadow: 0px 0px rgba(62,49,49,1.00);
+    margin-top: 45px;
+    margin-right: 30px;
+    margin-bottom: 45px;
+    margin-left: 25px;
+    font-weight: 400;
+    font-family: gentium-book-basic;
+    font-style: normal;
+    text-align: center;
+    text-indent: 30px;
+	line-height: 1.5;
+	position: relative;
+		color: rgba(255,255,255,1.00);
+		width: fit-content;
+	
+}
+#segundo{
+	position:relative;
+	margin-top: 45px;
+    margin-right: 30px;
+    margin-bottom: 45px;
+    margin-left: 25px;
+	width: fit-content;
+}
+.presentationcurrent{
+    font-size: 18px;
+    text-shadow: 0px 0px rgba(62,49,49,1.00);
+    margin-top: 20px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    margin-left: 25px;
+    font-weight: 400;
+    font-family: gentium-book-basic;
+    font-style: normal;
+    text-align: justify;
+    text-indent: 30px;
+    line-height: 1.5;
+    position: static;
+    first-line: 5px;
+	text-decoration: none;
+	color:rgba(255,255,255,1.00);
+	
+}
+h1 {
+	color:#D5D5D5;
+}
+a:link {
+	color:#B68D3A;
+		}
+a:active{
+	color:#B68D3A;
+}
+a:inactive{
+	color:#B68D3A;
+}
+		
+a:visited{
+	color:purple;
+		}
+a:hover{
+	color:purple;
+}
+
+.chico {
+    font-size: 18px;
+    font-style: oblique;
+    text-align: left;
+    color: rgba(217,217,217,1.00);
+    font-weight:normal;
+	text-decoration: overline;
+	line-height:22px;}
+ 	
+.chicoabout {
+    font-size: 20px;
+    font-style: oblique;
+    text-align: center;
+    color: rgba(217,217,217,1.00);
+    font-weight: normal;
+    text-decoration: overline;
+    line-height:22px;
+	margin-top: 20px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    margin-left: 25px;
+	
+}
+.descriptiondos 
+{
+    margin-left: 200px;
+    font-size: x-small;
+    font-weight: lighter;
+    font-variant-position: sub;
+    line-height: 1;
+    color: rgba(214,214,214,1.00);
+}
+.titulopag {
+    font-size: 30px;
+    font-weight: lighter;
+    color: rgba(254,254,254,1.00);
+    margin-top: 45px;
+    margin-right: 30px;
+    margin-bottom: 45px;
+    margin-left: 25px;
+    text-align: left;
+}
+.licontent{
+	position: static;
+	 font-size: 13px;
+    font-weight: lighter;
+    font-variant-position: sub;
+    line-height: 1.5;
+    color: rgba(214,214,214,1.00);
+    text-align: justify;
+	 margin-top: 20px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    margin-left: 25px;
+}
+.imgcontent{
+	position: static;
+}
+.mediocurrent {
+	position: absolute;
+	margin-top: auto;
+    font-size: 14px;
+    text-shadow: 1px 0 1px;
+	text-align: justify;}
+.descriptiontres
+{
+    font-size: 13px;
+    font-weight: lighter;
+    font-variant-position: sub;
+    line-height: 1.5;
+    color: rgba(214,214,214,1.00);
+    text-align: justify;
+	 margin-top: 20px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    margin-left: 25px;
+}
+.cuadrocurrent{
+	height: auto;
+	
+}
+.mediotaller
+{
+	font-size: 14px;
+    text-shadow: 1px 0 1px;
+    text-align: center;
+	margin-top: 20px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    margin-left: 25px;
+}
+.mediocurrentyellow {
+	font-size: 14px;
+	color: #B68D3A;
+    text-shadow: 1px 0 1px;
+    text-align: justify;
+}
+.medio {
+    font-size: 18px;
+    text-shadow: 1px 0 1px;
+    margin-top: 20px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    margin-left: 25px;
+    text-align: left;
+	line-height:22px;}
+.list 
+{
+    font-size: medium;
+    line-height: 3;
+}
