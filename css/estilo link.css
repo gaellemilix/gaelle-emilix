@@ -74,18 +74,20 @@ presentationcurrentsignature{
 	font-size: 18px;
     text-shadow: 0px 0px rgba(62,49,49,1.00);
     margin-top: 20px;
-    margin-right: 30px;
+    margin-right: 400px;
     margin-bottom: 10px;
     margin-left: 25px;
     font-weight: 400;
     font-family: gentium-book-basic;
     font-style: normal;
-    text-indent: 500px;
+    text-align: justify;
+    text-indent: 30px;
     line-height: 1.5;
     position: static;
     first-line: 5px;
-	text-decoration: none;
+     text-decoration: none;
 	color:rgba(255,255,255,1.00);
+	
 }
 h1 {
 	color:#D5D5D5;
